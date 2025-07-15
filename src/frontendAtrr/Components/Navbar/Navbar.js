@@ -25,7 +25,7 @@ const Navbar = () => {
       <a href="/" className="text-blue-600">Home</a>
       <a href="/about" className="hover:text-blue-500">About Us</a>
       <a href="/teachers" className="hover:text-blue-500">Teacher’s Portal</a>
-      <a href="/students" className="hover:text-blue-500">Student’s Portal</a>
+      <a href="/studentdashboard" className="hover:text-blue-500">Student’s Portal</a>
     </div>
 
     {/* Right: Search + Buttons */}
